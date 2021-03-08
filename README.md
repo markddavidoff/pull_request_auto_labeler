@@ -1,4 +1,4 @@
-Note: You could tottally do this as a github action instead now, and you probably should.
+Note: You could totally do this as a github action instead now, and you probably should. 
 
 # pull_request_auto_labeler
 Automatically label Github pull requests based on elements of the PR title. 
